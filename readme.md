@@ -26,6 +26,20 @@ npm start
 cd client 
 node app.js
 ```
+## 1CLub Homepage
+![alt text](./2.png)
+
+
+## About
+![alt text](./3.png)
+
+
+## Login
+![alt text](./5.png)
+
+
+## Transaction
+![alt text](./4.png)
 
 
 ## Contributing
