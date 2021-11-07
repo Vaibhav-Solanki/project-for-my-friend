@@ -28,6 +28,7 @@
     "mongoose": "^6.0.8",
     "paytmchecksum": "^1.5.0",
     "querystring": "^0.2.1",
+    "stripe": "^8.186.1",
     "util": "^0.12.4"
   }
 }

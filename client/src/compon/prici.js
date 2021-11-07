@@ -56,9 +56,9 @@ function Pricing() {
             <div className="dollar-div px-3">
             <div className="round-div"><i className="fas fa-rupee-sign dollar"></i></div>
             </div>
-            <div className="d-flex flex-column text-right mr-2"> <span className="current-balance">Price</span> <span className="amount"><span className="dollar-sign">₹</span>200</span> </div>
+            <div className="d-flex flex-column text-right mr-2"> <span className="current-balance">Price</span> <span className="amount"><span className="dollar-sign">₹</span>400</span> </div>
             </div>
-                            <div className="middle-container d-flex justify-content-between align-items-center mt-3 p-2"><NavLink to="/paypage" style={{width: "100%"}}><button class="btc shadow-dreamy gbut" type="submit" style={{width: "100%", background: "#5957f9"}}><i class="far fa-money-bill-alt"> </i> Buy Now</button></NavLink></div>
+                            <div className="middle-container d-flex justify-content-between align-items-center mt-3 p-2"><a href="https://buy.stripe.com/6oEdTK2JwdDH2VG001" style={{width: "100%"}}><button class="btc shadow-dreamy gbut" type="submit" style={{width: "100%", background: "#5957f9"}}><i class="far fa-money-bill-alt"> </i> Buy Now</button></a></div>
                             </div>
                             
 	<span style={{height:"80px",width:"100%",position:"absolute"}}></span>

@@ -13,9 +13,7 @@ app.use(express.urlencoded({extended:true}));
 const ejs= require('ejs');
 
 
-
 app.use(require('./router/regi'));
-app.use(require('./router/payment'));
 app.use(require('./router/Au'));
 
 const port = process.env.PORT;
