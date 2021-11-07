@@ -32,7 +32,7 @@ node app.js
 
 
 ## About
-![alt text](./3.png)
+![alt text](./pro.png)
 
 
 ## Login
