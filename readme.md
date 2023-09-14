@@ -1,5 +1,4 @@
-# 1Club
-
+# 1Club 
 [for live example](https://1club.in)
 
 1Club is an innovative Cryptocurrency MERN Web application source. This Crypto theme is designed for businesses and individuals in the decentralized digital currency space. The 1CLUB BitCoin & cryptocurrency MERN template is an exclusive niche theme for Cryptocurrency Investments, Bitcoin Exchange, Mining related sites.
@@ -12,46 +11,42 @@ Use the npm package manager [npm](https://docs.npmjs.com/downloading-and-install
 cd client
 npm install
 cd ..
-cd server
+cd server 
 npm install
 ```
 
 ## Start react Dev Environment
 
 ```bash
-cd client
+cd client 
 npm start
 ```
-
-## Start Nodejs Dev Environment
+## Start Nodejs Dev Environment 
 
 ```bash
-cd client
+cd client 
 node app.js
 ```
-
 ## 1CLub Homepage
-
 ![alt text](./2.png)
 
-## About
 
+## About
 ![alt text](./pro.png)
 
-## Login
 
+## Login
 ![alt text](./5.png)
 
-## Transaction
 
+## Transaction
 ![alt text](./4.png)
 
-## Contributing
 
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
